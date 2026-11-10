@@ -5,8 +5,9 @@
 I work where security engineering meets AI: cloud threat detection, applied cryptography and phishing defense. My long-term goal is to lead security strategy as a **CISO**, and my next step is a **Master's in Information Security**.
 
 ### 🔬 Research
-**Adaptive Multi-Agent AI Framework for Autonomous Cloud Threat Detection and Context-Aware Incident Response on Microsoft Azure**
+**Adaptive Multi-Agent AI Framework for Autonomous Cloud Threat Detection and Context-Aware Incident Response on Microsoft Azure**  
 *Final-year research paper, with Rosh Baby Philip and Dr. Sharath P. Raju*
+
 - Multi-agent pipeline ingesting Azure Activity Logs, Defender for Cloud and Entra ID telemetry into a common Threat Record Schema
 - Ensemble anomaly detection (Isolation Forest + heuristics + autoencoder), context-aware 0–10 risk scoring, MITRE ATT&CK mapping
 - Tiered autonomous response with human-in-the-loop safeguards and explainable decision graphs
@@ -20,13 +21,13 @@ I work where security engineering meets AI: cloud threat detection, applied cryp
 | **Image Steganography Tool** | Hides data inside images using LSB encoding | Python |
 
 ### 💼 Experience
-**Data Analytics Intern** · Quest Innovative Solutions (QIS Academy), Trivandrum · Jun–Jul 2025
+**Data Analytics Intern** · Quest Innovative Solutions (QIS Academy), Trivandrum · Jun–Jul 2025  
 Road-safety analysis of Indian accident datasets: Python/Pandas preprocessing, Tableau dashboards, Random Forest severity model (~85% accuracy).
 
 ### 🧰 Toolbox
-**Languages:** Python · C++ · SQL
-**Security:** Wireshark · Nmap · Cryptography · MITRE ATT&CK · Digital forensics fundamentals · Linux
-**Cloud & data:** Microsoft Azure · Oracle Cloud · scikit-learn · Pandas · Tableau · Flask
+- **Languages:** Python · C++ · SQL
+- **Security:** Wireshark · Nmap · Cryptography · MITRE ATT&CK · Digital forensics fundamentals · Linux
+- **Cloud & data:** Microsoft Azure · Oracle Cloud · scikit-learn · Pandas · Tableau · Flask
 
 ### 🏁 Also
 Capture The Flag (CTF) competitor (2025–2026), focused on cryptography and security challenges.
